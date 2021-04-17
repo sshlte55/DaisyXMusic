@@ -14,7 +14,7 @@
 ### Commands 🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
-- `/play <song name>` - play song you requested
+- `/ytp <song name>` - play song you requested
 - `/song <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
 
